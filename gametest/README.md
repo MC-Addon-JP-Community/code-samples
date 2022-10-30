@@ -1,6 +1,6 @@
 # GameTest
 
-### [get-score](./get-score.md)
+### [get-score](./get-score.js)
 スコアを取得する関数
 
 <!--
