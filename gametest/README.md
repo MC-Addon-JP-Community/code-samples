@@ -1,9 +1,7 @@
 # GameTest
 
-### [get-score](./get-score.js)
-スコアを取得する関数
+### [manifest.json](./manifest.md)
+GameTestを動かすのに必要なmanifest.jsonのサンプル
 
-<!--
-### [test2](./README.md)
-説明2
--->
+### [get-score](./get-score.md)
+スコアを取得する関数
