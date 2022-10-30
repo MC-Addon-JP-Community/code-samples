@@ -1,9 +1,8 @@
 # GameTest
+Microsoft 公式ドキュメント: https://learn.microsoft.com/en-us/minecraft/creator/scriptapi/
 
-### [get-score](./get-score.js)
+### [manifest.json](./manifest.md)
+GameTestを動かすのに必要なmanifest.jsonのサンプル
+
+### [get-score](./get-score.md)
 スコアを取得する関数
-
-<!--
-### [test2](./README.md)
-説明2
--->
