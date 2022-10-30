@@ -1,3 +1,8 @@
+# get-score
+プレイヤーのスコアを取得する関数です。  
+- Minecraft v1.19.40  
+
+```js
 /**
  * フェイクプレイヤー対応版のスコア取得関数
  * @author akki256
@@ -14,3 +19,4 @@ export function getScore(target, objective) {
         return null;
     }
 }
+```
