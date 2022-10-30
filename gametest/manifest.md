@@ -1,5 +1,6 @@
 # manifest.json
-GameTestアドオンを作るのに必要なmanifestのサンプルです。  
+
+GameTest アドオンを作るのに必要な manifest のサンプルです。
 
 - Minecraft v1.19.40
 
