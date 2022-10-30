@@ -1,4 +1,5 @@
 # GameTest
+Microsoft 公式ドキュメント: https://learn.microsoft.com/en-us/minecraft/creator/scriptapi/
 
 ### [manifest.json](./manifest.md)
 GameTestを動かすのに必要なmanifest.jsonのサンプル
