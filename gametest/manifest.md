@@ -2,6 +2,7 @@
 GameTestアドオンを作るのに必要なmanifestのサンプルです。  
 
 - Minecraft v1.19.40
+
 ```json
 {
   "format_version": 2,
