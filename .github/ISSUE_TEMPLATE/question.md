@@ -9,7 +9,7 @@ labels: question
 <!-- 
 既存のファイルへの質問の場合，ファイルのURLを書いてください
 ファイルではない場合はこの節を消してください
-例) addon-jp-community/CONTRIBUTING.md
+例) code-samples/CONTRIBUTING.md
  -->
 
 ## 質問内容

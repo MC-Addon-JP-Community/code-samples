@@ -9,7 +9,7 @@ labels: enhancement
 <!-- 
 既存のファイルについての提案の場合，ファイルのURLを書いてください
 新規ファイルの場合は，この節を消してください
-例) addon-jp-community/CONTRIBUTING.md
+例) code-samples/CONTRIBUTING.md
  -->
 
 ## リクエスト/提案内容

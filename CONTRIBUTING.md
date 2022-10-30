@@ -10,10 +10,10 @@
 
 本リポジトリのバグや要望，質問などはIssueにて受け付けております
 
-バグ報告は[こちら](https://github.com/MC-Addon-JP-Community/addon-jp-community/issues/new?assignees=&labels=bug&template=bug_report.md)から
-新機能の要望や提案は[こちら](https://github.com/MC-Addon-JP-Community/addon-jp-community/issues/new?assignees=&labels=enhancement&template=feature_request.md)から
-質問は[こちら](https://github.com/MC-Addon-JP-Community/addon-jp-community/issues/new?assignees=&labels=question&template=question.md)から
-その他のIssueは[こちら](https://github.com/MC-Addon-JP-Community/addon-jp-community/issues/new?assignees=&labels=other&template=other.md)から
+バグ報告は[こちら](https://github.com/MC-Addon-JP-Community/code-samples/issues/new?assignees=&labels=bug&template=bug_report.md)から
+新機能の要望や提案は[こちら](https://github.com/MC-Addon-JP-Community/code-samples/issues/new?assignees=&labels=enhancement&template=feature_request.md)から
+質問は[こちら](https://github.com/MC-Addon-JP-Community/code-samples/issues/new?assignees=&labels=question&template=question.md)から
+その他のIssueは[こちら](https://github.com/MC-Addon-JP-Community/code-samples/issues/new?assignees=&labels=other&template=other.md)から
 
 ## プルリクエストについて
 

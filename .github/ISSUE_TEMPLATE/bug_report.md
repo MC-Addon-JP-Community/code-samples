@@ -8,7 +8,7 @@ labels: bug
 ## 該当ファイル
 <!-- 
 ファイルのURLを書いてください
-例) addon-jp-community/CONTRIBUTING.md
+例) code-samples/CONTRIBUTING.md
  -->
 
 ## 説明
