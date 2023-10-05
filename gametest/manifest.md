@@ -1,7 +1,7 @@
 # manifest.json
 GameTestアドオンを作るのに必要なmanifestのサンプルです。  
 
-- Minecraft v1.19.40
+- Minecraft v1.20.30
 
 ```json
 {
