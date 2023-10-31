@@ -1,7 +1,7 @@
 # manifest.json
 GameTestアドオンを作るのに必要なmanifestのサンプルです。  
 
-- Minecraft v1.20.30
+- Minecraft v1.20.40
 
 ```json
 {
@@ -9,15 +9,15 @@ GameTestアドオンを作るのに必要なmanifestのサンプルです。
   "header": {
     "name": "Sample GameTest Pack",
     "description": "sample",
-    "version": [1, 0, 0],
+    "version": [ 1, 0, 0 ],
     "uuid": "63670e93-0d7a-4527-ac7e-5568db07ac17",
-    "min_engine_version": [1, 13, 0]
+    "min_engine_version": [ 1, 20, 40 ]
   },
   "modules": [
     {
       "type": "script",
       "description": "sample",
-      "version": [1, 0, 0],
+      "version": [ 1, 0, 0 ],
       "uuid": "b18738aa-2854-4ad3-ad88-402ea7c89b69",
       "language": "javascript",
       "entry": "scripts/[ファイル名].js"
@@ -26,7 +26,7 @@ GameTestアドオンを作るのに必要なmanifestのサンプルです。
   "dependencies": [
     {
       "module_name": "@minecraft/server",
-      "version": "1.6.0-beta"
+      "version": "1.7.0-beta"
     },
     {
       "module_name": "@minecraft/server-ui",
