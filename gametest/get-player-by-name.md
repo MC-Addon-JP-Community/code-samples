@@ -2,7 +2,7 @@
 名前からPlayerクラスを取得する関数です。  
 
 - Minecraft v1.20.40  
-- @minecraft/server v1.6.0
+- @minecraft/server v1.6.0 (1.7.0-betaでも可)
 
 ```js
 /**
