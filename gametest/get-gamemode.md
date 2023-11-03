@@ -8,7 +8,6 @@
 import { GameMode } from '@minecraft/server';
 
 /**
- * フェイクプレイヤー対応版のスコア取得関数
  * @author tutinoko2048
  * @param { import('@minecraft/server').Player } target
  * @returns { import('@minecraft/server').GameMode }
