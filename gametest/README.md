@@ -21,3 +21,6 @@ DynamicPropertyの使用方法
 
 ### [kill-death-counter](./kill-death-counter.md)
 プレイヤーによるキル数とデス数をスコアに記録する
+
+### [on-player-join](./on-player-join.md)
+プレイヤーがワールドに参加した時に処理を実行するサンプル
