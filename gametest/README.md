@@ -18,3 +18,6 @@ DynamicPropertyの使用方法
 
 ### [get-item-amount](./get-item-amount.md)
 インベントリ内の指定したアイテムの個数を取得する関数
+
+### [kill-death-counter](./kill-death-counter.md)
+プレイヤーによるキル数とデス数をスコアに記録する
