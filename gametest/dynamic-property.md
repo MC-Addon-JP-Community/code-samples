@@ -1,8 +1,8 @@
 # dynamic-property
 DynamicPropertyの使用方法です
 
-- Minecraft v1.20.40  
-- @minecraft/server v1.7.0-beta
+- Minecraft v1.20.60  
+- @minecraft/server v1.9.0-beta
 
 ```js
 import { world } from '@minecraft/server';

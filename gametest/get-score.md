@@ -1,8 +1,8 @@
 # get-score
 プレイヤーのスコアを取得する関数です。  
 
-- Minecraft v1.20.30  
-- @minecraft/server v1.6.0-beta
+- Minecraft v1.20.60  
+- @minecraft/server v1.9.0-beta
 
 ```js
 /**

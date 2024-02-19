@@ -1,8 +1,9 @@
 # get-item-amount
 インベントリ内の指定したアイテムの個数を取得します
 
-- Minecraft v1.20.40  
-- @minecraft/server v1.7.0-beta (1.6.0)
+- Minecraft v1.20.60
+- @minecraft/server v1.9.0-beta
+- @minecraft/server v1.8.0
 
 ```js
 /**

@@ -1,8 +1,8 @@
 # get-gamemode
 プレイヤーのゲームモードを取得する関数です。  
 
-- Minecraft v1.20.40  
-- @minecraft/server v1.7.0-beta
+- Minecraft v1.20.60  
+- @minecraft/server v1.9.0-beta
 
 ```js
 import { GameMode } from '@minecraft/server';
