@@ -27,3 +27,6 @@ DynamicPropertyの使用方法
 
 ### [health-nametag](./health-nametag.md)
 プレイヤーのネームタグにHPを表示
+
+### [on-break-block](./on-break-block.md)
+ブロックを破壊したら壊したブロックのIDを表示
