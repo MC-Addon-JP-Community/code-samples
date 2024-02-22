@@ -24,3 +24,6 @@ DynamicPropertyの使用方法
 
 ### [on-player-join](./on-player-join.md)
 プレイヤーがワールドに参加した時に処理を実行するサンプル
+
+### [health-nametag](./health-nametag.md)
+プレイヤーのネームタグにHPを表示
