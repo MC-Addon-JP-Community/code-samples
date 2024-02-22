@@ -9,7 +9,7 @@
 ```json
 {
   "dot_font_label": {
-    "type": "panel",
+    "type": "label",
     "text": "Test",
     "font_type": "#font_type",
     "bindings": [
