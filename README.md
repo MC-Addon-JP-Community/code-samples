@@ -5,3 +5,6 @@
 
 ## [GameTest](./gametest/README.md)
 GameTest(Script API)のサンプルです
+
+## [JSON UI](./json-ui/README.md)
+JSON UIのサンプルです
