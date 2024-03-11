@@ -33,3 +33,6 @@ DynamicPropertyの使用方法
 
 ### [on-item-use](./on-item-use.md)
 アイテムを使用したら処理を実行する
+
+### [item-generator](./item-generator.md)
+定期的にアイテムをスポーンさせる
