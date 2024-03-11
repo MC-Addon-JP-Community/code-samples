@@ -30,3 +30,6 @@ DynamicPropertyの使用方法
 
 ### [on-break-block](./on-break-block.md)
 ブロックを破壊したら壊したブロックのIDを表示
+
+### [on-item-use](./on-item-use.md)
+アイテムを使用したら処理を実行する
