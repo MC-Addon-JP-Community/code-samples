@@ -33,3 +33,6 @@ DynamicPropertyの使用方法
 
 ### [item-generator](./item-generator.md)
 定期的にアイテムをスポーンさせる
+
+### [chat-command](./chat-command.md)
+チャットを使ったカスタムコマンドのサンプル
