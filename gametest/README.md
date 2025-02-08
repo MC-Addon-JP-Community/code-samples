@@ -36,3 +36,6 @@ DynamicPropertyの使用方法
 
 ### [chat-command](./chat-command.md)
 チャットを使ったカスタムコマンドのサンプル
+
+### [item-enchantment](./item-enchantment.md)
+エンチャントを付けたアイテムを与えるサンプル
