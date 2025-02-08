@@ -1,8 +1,8 @@
 # get-item-amount
 インベントリ内の指定したアイテムの個数を取得します
 
-- Minecraft v1.20.60
-- @minecraft/server v1.9.0-beta
+- Minecraft v1.21.50
+- @minecraft/server v1.17.0-beta
 - @minecraft/server v1.8.0
 
 ```js
@@ -22,4 +22,19 @@ export function getItemAmount(player, itemId) {
   }
   return amount;
 }
+```
+
+## 使用例
+```js
+world.afterEvents.itemUse.subscribe(event => {
+  const itemStack = event.itemStack;
+  const player = event.source;
+
+  // 棒を使用した時
+  if (itemStack.typeId === 'minecraft:stick') {
+    // 棒の個数の数値を変数amountに代入
+    const amount = getItemAmount(player, 'minecraft:stick');
+    player.sendMessage(`棒の個数: ${amount}`);
+  }
+});
 ```

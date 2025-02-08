@@ -6,7 +6,7 @@
 - @minecraft/server v1.9.0-beta
 - @minecraft/server v1.8.0
 
-```
+```js
 import { world } from '@minecraft/server';
 
 world.afterEvents.itemUse.subscribe(event => {

@@ -1,5 +1,5 @@
 # manifest.json
-GameTestアドオンを作るのに必要なmanifestのサンプルです。  
+ScriptAPIアドオンを作るのに必要なmanifestのサンプルです。  
 
 - Minecraft v1.21.51
 
