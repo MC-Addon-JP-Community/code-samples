@@ -2,35 +2,36 @@
 言語が日本語になっている場合でもドットフォントで表示するラベルのサンプルです。
 
 > [!WARNING]
-> factory／grid内のラベルの場合動作しない可能性があります
+> grid内のラベルの場合動作しません
 
-- Minecraft v1.20.62
+- Minecraft v1.21.101
 
 ```json
 {
-  "dot_font_label": {
+  "classic_label": {
     "type": "label",
     "text": "Test",
     "font_type": "#font_type",
+    "property_bag": {
+      "#font_type": "classic"
+    },
     "bindings": [
       {
         "binding_type": "view",
-        "source_control_name": "font_property_panel",
         "source_property_name": "#font_type",
         "target_property_name": "#font_type"
       }
-    ],
-    "controls": [
-      {
-        "font_property_panel": {
-          "type": "panel",
-          "size": [ 0, 0 ],
-          "property_bag": {
-            "#font_type": "classic"
-          }
-        }
-      }
     ]
+  }
+}
+```
+↑これを`ui/ui_common.json`に入れておくと、便利に使えます！  
+使用例
+
+```json
+{
+  "label@common.classic_label": {
+    "text": "てすとだよ"
   }
 }
 ```
