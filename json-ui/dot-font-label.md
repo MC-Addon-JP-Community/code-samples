@@ -2,7 +2,7 @@
 言語が日本語になっている場合でもドットフォントで表示するラベルのサンプルです。
 
 > [!WARNING]
-> grid内のラベルの場合動作しません
+> gridまたはfactory内のラベルの場合動作しないかもしれないです。
 
 - Minecraft v1.21.101
 
@@ -11,7 +11,6 @@
   "classic_label": {
     "type": "label",
     "text": "Test",
-    "font_type": "#font_type",
     "property_bag": {
       "#font_type": "classic"
     },
